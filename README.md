@@ -1,2 +1,2 @@
-# sample-AI-flight-turnaround
-Creating a sample application for flight turn around using AI/ML
+# userdata-demo-video-Analytics
+Creating a sample application for video analytics using AI/ML
