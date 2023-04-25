@@ -1,7 +1,11 @@
 
 
 function App() {
-  return <h1>Sample Test Razi</h1>;
+  return <div>
+ <h1>Sample</h1>
+ <h2>test</h2>
+  </div>
+  
 }
 
 export default App;
