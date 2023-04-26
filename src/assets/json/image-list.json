@@ -1,19 +1,48 @@
 {
-  "images": [
+  "data": [
     {
-      "url": "https://example.com/image1.jpg",
-      "title": "Image 1",
-      "description": "This is the first image"
+      "url": "assets/img/video-sequence/sequence_1.png",
+      "title": "Image 1"
     },
     {
-      "url": "https://example.com/image2.jpg",
-      "title": "Image 2",
-      "description": "This is the second image"
+      "url": "assets/img/video-sequence/sequence_2.png",
+      "title": "Image 2"
     },
     {
-      "url": "https://example.com/image3.jpg",
-      "title": "Image 3",
-      "description": "This is the third image"
+      "url": "assets/img/video-sequence/sequence_3.png",
+      "title": "Image 3"
+    },
+    {
+      "url": "assets/img/video-sequence/sequence_4.png",
+      "title": "Image 1"
+    },
+    {
+      "url": "assets/img/video-sequence/sequence_5.png",
+      "title": "Image 2"
+    },
+    {
+      "url": "assets/img/video-sequence/sequence_6.png",
+      "title": "Image 3"
+    },
+    {
+      "url": "assets/img/video-sequence/sequence_7.png",
+      "title": "Image 1"
+    },
+    {
+      "url": "assets/img/video-sequence/sequence_8.png",
+      "title": "Image 2"
+    },
+    {
+      "url": "assets/img/video-sequence/sequence_9.png",
+      "title": "Image 3"
+    },
+    {
+      "url": "assets/img/video-sequence/sequence_10.png",
+      "title": "Image 1"
+    },
+    {
+      "url": "assets/img/video-sequence/sequence_11.png",
+      "title": "Image 2"
     }
   ]
 }
