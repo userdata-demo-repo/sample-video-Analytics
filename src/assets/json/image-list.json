@@ -1,0 +1,19 @@
+{
+  "images": [
+    {
+      "url": "https://example.com/image1.jpg",
+      "title": "Image 1",
+      "description": "This is the first image"
+    },
+    {
+      "url": "https://example.com/image2.jpg",
+      "title": "Image 2",
+      "description": "This is the second image"
+    },
+    {
+      "url": "https://example.com/image3.jpg",
+      "title": "Image 3",
+      "description": "This is the third image"
+    }
+  ]
+}

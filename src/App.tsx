@@ -1,5 +1,3 @@
-
-
 function App() {
   return <div>
  <h1>Sample</h1>
@@ -8,7 +6,7 @@ function App() {
  <h4>test3</h4>
  <p>hi</p>
   </div>
-  
+
 }
 
 export default App;

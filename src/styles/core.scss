@@ -1,0 +1,28 @@
+@import 'base';
+
+// Some best-practice CSS that's useful for most apps
+// Just remove them if they're not what you want
+
+html {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  font-size: 16px;
+  font-family: $font-PR;
+}
+
+button {
+  outline: none !important;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
